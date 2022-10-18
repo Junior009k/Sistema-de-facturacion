@@ -1,0 +1,28 @@
+body 
+{
+  background-color: antiquewhite;  
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+.cabecera
+{
+  display: flex;
+  background-color: rgb(188, 152, 104);  
+  border-radius: 100px;
+}
+.img
+{
+  width: 50px;
+  height:50px;
+  background-image: url("./img/logo.jfif");
+  border-radius: 100px;
+
+}
+
+.titulo
+{
+  font-size:36px;
+}
+
+

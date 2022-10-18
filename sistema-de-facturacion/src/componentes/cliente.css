@@ -1,0 +1,43 @@
+.container-ce
+{
+    display: grid;
+    grid-template-columns:REPEAT(4,170PX)   ;
+    grid-template-rows:REPEAT(5,28PX)   ;
+    place-content: center;
+    margin: 50px;
+}
+
+.item
+{
+    border: 2px solid black;
+    width: 170px;
+}
+
+
+.button
+{
+    color:aliceblue;
+    background-color: #0d6efd;;
+
+}
+
+.botonC
+{
+    color:aliceblue;
+    background-color: #0d6efd;
+    width: 75px;
+    font-size: 13px;
+    height: 25px;
+}
+
+.E
+{
+    background-color: #ff0000;
+}
+
+.container-Modal
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

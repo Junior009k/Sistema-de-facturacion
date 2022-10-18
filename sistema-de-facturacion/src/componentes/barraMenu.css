@@ -1,0 +1,22 @@
+.Barramenu
+{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.box
+{
+    
+    border-radius: 6px;
+    border: 2px solid #000;
+    width: 85px;
+    background-color: #d6ffd0;
+    margin-top: 40px;
+    text-decoration: none;
+    color: #000;
+}
+
+.box:hover
+{
+    background-color:yellow;
+}

@@ -1,0 +1,19 @@
+.Barra2
+{
+    text-align: left;
+}
+
+.container
+{
+    display: grid;
+    grid-template-columns:REPEAT(5,170PX)   ;
+    grid-template-rows:REPEAT(10,28PX)   ;
+    place-content: center;
+    margin: 50px;
+}
+
+.item
+{
+    border: 2px solid black;
+    width: 170px;
+}
